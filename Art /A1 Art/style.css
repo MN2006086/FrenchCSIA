@@ -1,0 +1,204 @@
+* {
+    box-sizing: border box;
+    padding: 0;
+    margin: 0;
+}
+
+
+.container{
+    height: 1000vh;
+    width: 100vw;
+    background-color: #2A2B2A;
+
+   
+
+}
+
+.art {
+    font-size: 50px;
+    font-family: "big caslon";
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    color: #F8F4E3; 
+
+}
+
+
+.header {
+    font-weight: 100px;
+    font-style: italic;
+    
+
+    width: 100vw;
+    height: 10vh;
+    color: blanchedalmond;
+    font-size: 40px; 
+    font-family: "KAI";
+    font-weight: 10;
+
+    
+}
+
+
+.header-big {
+    font-weight: 100px;
+    font-style: italic;
+
+    width: 100vw;
+    height: 20vh;
+    color: blanchedalmond;
+    font-size: 40px; 
+    background-color: black;
+    font-family: 'zapfino';
+    font-weight: 10;
+
+
+
+}
+
+.header-small {
+    font-weight: 100px;
+    font-style: italic;
+
+    width: 100vw;
+    height: 20vh;
+    color: blanchedalmond;
+    font-size: 40px; 
+    background-color:#c6ac97;
+    font-family: "KAI";
+    font-weight: 10;
+
+
+
+}
+
+
+.inner-container-one {
+    width: 100vw;
+    height: 200vh;
+    background-color: #fa806b;
+}
+
+
+.box-one {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  
+
+    width: 100vw;
+    height: 90vh;
+    color: #edcdb4;
+    font-size: 25px; 
+    background-color: #78b1d4; 
+    font-family: "KAI";
+    font-weight: 50;
+
+}
+
+.box-picOne {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    
+  
+
+    width: 100vw;
+    height: 90vh;
+    color: #edcdb4;
+    font-size: 25px; 
+    background-color:  #fa806b; 
+    font-family: "KAI";
+    font-weight: 50;
+
+}
+
+.box-two {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  
+
+    width: 100vw;
+    height: 110vh;
+    color: #e4da7f;
+    font-size: 25px; 
+    background-color: #2e3f4e;
+    font-family: "KAI";
+    font-weight: 50;
+
+}
+
+
+.box-three {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  
+
+    width: 100vw;
+    height: 110vh;
+    color: #dbd0b6;
+    font-size: 25px; 
+    background-color: #1f3b2f;
+    font-family: "KAI";
+    font-weight: 50;
+
+}
+
+
+.box-four {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  
+
+    width: 100vw;
+    height: 110vh;
+    color: blanchedalmond;
+    font-size: 25px; 
+    background-color: #A01401; 
+    font-family: "KAI";
+    font-style: ITALIC;
+    font-weight: 50;
+
+}
+
+
+.box-five {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  
+
+    width: 100vw;
+    height: 110vh;
+    color: blanchedalmond;
+    font-size: 25px; 
+    background-color: #C4678A; 
+    font-family: "KAI";
+    font-style: ITALIC;
+    font-weight: 50;
+
+}
+
+img {
+    height: 300px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    
+}
